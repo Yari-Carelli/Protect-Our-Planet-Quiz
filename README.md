@@ -10,21 +10,20 @@ Deployed website can be viewed [here](https://anyahush.github.io/protect-our-pla
 
 ## Table of Contents
 ---
-1. [Project Goals](https://github.com/anyahush/protect-our-planet-quiz#project-goals)
-2. [UX](https://github.com/anyahush/protect-our-planet-quiz#ux-design)
-3. [Strategy Plane](https://github.com/anyahush/protect-our-planet-quiz#strategy-plane)
-    * [User Stories](https://github.com/anyahush/protect-our-planet-quiz#user-stories)
-4. [Scope Plane](https://github.com/anyahush/protect-our-planet-quiz#scope-plane)
-    * [Existing Features](https://github.com/anyahush/protect-our-planet-quiz#existing-features)
-    * [Features Left to Implement](https://github.com/anyahush/protect-our-planet-quiz#features-left-to-implement)
-5. [Structure Plane](https://github.com/anyahush/protect-our-planet-quiz#structure-plane)
-6. [Skeleton Plane](https://github.com/anyahush/protect-our-planet-quiz#skeleton-plane)
-7. [Surface Plane](https://github.com/anyahush/protect-our-planet-quiz#surface-plane)
-8. [Technologies](https://github.com/anyahush/protect-our-planet-quiz#technologies)
+1. [Project Goals](#project-goals)
+2. [UX](#ux-design)
+3. [Strategy Plane](#strategy-plane)
+    * [User Stories](#user-stories)
+4. [Scope Plane](#scope-plane)
+    * [Existing Features](#existing-features)
+    * [Features Left to Implement](#features-left-to-implement)
+5. [Structure Plane](#structure-plane)
+6. [Skeleton Plane](#skeleton-plane)
+7. [Surface Plane](#surface-plane)
+8. [Technologies](#technologies)
 9. [Testing](testing.md)
-10. [Deployment](https://github.com/anyahush/protect-our-planet-quiz#deployment)
-11. [Credits](https://github.com/anyahush/protect-our-planet-quiz#credits)
-12. [Acknowledgements](https://github.com/anyahush/protect-our-planet-quiz#acknowledegments)
+10. [Deployment](#deployment)
+11. [Credits](#credits)
 
 ---
 
@@ -255,7 +254,6 @@ The question content was sourced from several educational websites, that are as 
 - The code to toggle the contact form modal was modified from [W3 Schools](https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp).
 - The code for the quiz was modified from [Web Dev Simplified](https://github.com/WebDevSimplified/JavaScript-Quiz-App) and his [YouTube Tutorial](https://www.youtube.com/watch?v=riDzcEQbX6k&ab_channel=WebDevSimplified) was used in conjuction.
 - The code to sent up emailjs was modified from [Code Institute Solutions](https://github.com/Code-Institute-Solutions/InteractiveFrontendDevelopment-Resume).
-- The README document was modelled on a [previous repository](https://github.com/anyahush/sunrise-yoga) by the developer.
 
 ### Media
 
@@ -267,12 +265,3 @@ The mp3 files were downloaded from [Orange Free Sounds](https://orangefreesounds
 - [Winning Victory Sound](https://orangefreesounds.com/quiz-correct-wining-victory-sound-effect/)
 - [Game Show Winner Sound](https://orangefreesounds.com/game-show-winner-sound-effect/)
 - [You Loose Sound](https://orangefreesounds.com/you-lose-sound-effect/)
-
-
-## Acknowledegments
-
-- Code Institute and their tutors 
-- The mini Feb 2021 team on Slack
-- My mentor Precious Ijege
-- The Slack community
-- Friends and family
